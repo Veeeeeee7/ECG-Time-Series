@@ -3,3 +3,5 @@ bin/
 include/
 pyvenv.cfg
 share/
+data/
+.DS_Store
