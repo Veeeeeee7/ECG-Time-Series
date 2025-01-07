@@ -1,0 +1,10 @@
+- task.data=/Users/victorli/Documents/GitHub/ECG-Time-Series/ECG_FM Classification/Calcium50893/manifest/cmsc
+- common_eval.path=/Volumes/SanDisk SSD/physionet.org/files/mimic-iv-ecg/1.0/ckpts/mimic_iv_ecg_physionet_pretrained.pt
+- common_eval.results_path=/Users/victorli/Documents/GitHub/ECG-Time-Series/ECG_FM
+  Classification/Calcium50893/outputs
+- dataset.valid_subset=test
+- dataset.batch_size=10
+- dataset.num_workers=3
+- dataset.disable_validation=false
+- distributed_training.distributed_world_size=1
+- distributed_training.find_unused_parameters=True

@@ -6,3 +6,6 @@ share/
 data/
 .DS_Store
 .venv/
+fairseq-signals/
+ckpts/
+Calcium50893/
